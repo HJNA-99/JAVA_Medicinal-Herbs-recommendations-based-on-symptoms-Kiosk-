@@ -1,1 +1,1 @@
-# JAVA_Herbal-medicine-recommendations-based-on-symptoms-Kiosk-
+# JAVA_Herbal-medicine-recommendations-based-on-symptoms-Kiosk
