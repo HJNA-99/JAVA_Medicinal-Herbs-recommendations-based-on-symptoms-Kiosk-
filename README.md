@@ -2,20 +2,23 @@
 
 ● Develop Title
 
-: 증상에 따른 한약재 추천 App
+
+: 증상에 따른 한약재 추천 Kiosk 프로그램
 
 ● Detail
 
 
-: 13가지 문답을 통해 환자의 증상을 파악하여 추천 한약재를 제시해주는 App 
+: 20가지 문답을 통해 환자의 증상을 파악하여 추천 한약재를 제시해주는 App 
 
 / 달임방이 아닌 곳에서도 누구나 설문을 통해 한약재 추천 가능
 
 ● Categorization
 
+
 : Outsourcing service
 
 ● Tech
+
 
 JAVA
 Visual Studio
